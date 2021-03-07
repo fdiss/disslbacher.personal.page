@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: franziska.disslbacher@wu.ac.at
+phone: 00 43 650 83 13 213
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: Austria 
+  country_code: UAT
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -95,7 +95,7 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
