@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: FRANZISKA DISSLBACHER - Welcome! # Website name
-baseurl: '' # Website URL
+baseurl: 'https://franziskadisslbacher.netlify.app' 
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
