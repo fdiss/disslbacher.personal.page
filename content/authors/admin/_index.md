@@ -22,6 +22,7 @@ interests:
 - Income and Wealth
 - Social Mobility between and within generations
 - Demography and Population Economics
+- Another one
 
 # Education to show in About widget
 education:
